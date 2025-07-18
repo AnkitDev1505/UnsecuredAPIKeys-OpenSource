@@ -53,7 +53,7 @@ The project consists of several interconnected components:
 - **Sentry** - Error tracking and monitoring
 - **GitHub Actions** - CI/CD pipeline
 
-## 📋 Prerequisites
+## 📋 Prerequisites 
 
 - **Docker** and **Docker Compose**
 - **PostgreSQL** database
